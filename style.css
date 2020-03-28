@@ -1,0 +1,85 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #483146;
+    height: 648px;
+
+}
+.N1{
+color: white;
+margin-right: 200px;
+padding-top:15px;
+}
+.N2{
+    color: white;
+    margin-right: 200px;
+    margin-bottom: 10px;
+}
+.N3{
+        color: white;
+        margin-right: 200px;
+        margin-bottom: 10px;
+ }
+ .N4{
+    color: white;
+    margin-right: 200px;
+    margin-bottom: 10px;
+ }
+ .N5{
+    color: white;
+    margin-right: 190px;
+    margin-bottom: 10px;
+}
+.T1{
+    background-color: #2b293b;
+    height: 25px;
+    width: 250px;
+    /*padding-bottom: 50px;*/
+    color: white;
+}
+.T2{
+    background-color: #2b293b;
+    height: 25px;
+    width: 250px;
+    color: white;
+}
+.T3{
+    background-color: #2b293b;
+    height: 25px;
+    width: 250px;
+    color: white;
+}
+.T4{
+    background-color: #2b293b;
+    height: 25px;
+    width: 250px;
+    color: white;
+    
+}
+.T5{
+    background-color: #2b293b;
+    height: 50px;
+    width: 250px;
+    color: white;
+}
+.b1{
+    background-color: #2b293b;
+    height: 25px;
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    
+
+}
+.b2{
+    background-color: #2b293b;
+    height: 25px;
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    margin-bottom: 20px;
+
+}
